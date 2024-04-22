@@ -21,6 +21,16 @@ Completed Script: Provide the finished script (log-monitor.sh for bash shell or 
 README.md File: Include a brief README file explaining how to use and test the script, along with any prerequisites or dependencies.
 GitHub Repository: Host the solution on GitHub and share the repository link for evaluation.
 
+
+
+To use the script:
+
+Save the script as log_monitor.py.
+Run the script with the path to the log file you want to monitor as an argument. For example:
+python log_monitor.py /path/to/your/log/file.log
+
+
+
 Correctness and Completeness: Ensure that the script functions correctly and fulfills all requirements.
 Code Structure and Clarity: Maintain clear and well-structured code with appropriate comments and variable naming conventions.
 Error Handling: Implement robust error handling mechanisms to handle unexpected situations gracefully.
